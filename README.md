@@ -59,15 +59,7 @@ I thrive in **fast-paced, collaborative environments** and enjoy working with di
  <td align="center" width="130"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
 </tr>
 </table>
-### 🖥️ Operating Systems
 
-<table>
-<tr>
-  <td align="center" width="130"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
-  <td align="center" width="130"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></td>
-  <td align="center" width="130"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-</tr>
-</table>
 
 ### 💻 IDEs  
 <table>
@@ -78,7 +70,14 @@ I thrive in **fast-paced, collaborative environments** and enjoy working with di
 </tr>
 </table>
 
-
+### 🖥️ Operating Systems
+<table>
+<tr>
+  <td align="center" width="130"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
+  <td align="center" width="130"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></td>
+  <td align="center" width="130"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
+</tr>
+</table>
 
 
 
