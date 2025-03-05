@@ -5,7 +5,7 @@
    **- Birzeit University**
 
  Strong foundation in:  
-- **Software Development** (Java, Python, Verilog)  
+- **Software Development** (Java, C, Python, Verilog)  
 - **Machine Learning & Deep Learning**  
 - **Mobile & Web Application Development**  
 - **Analog & Digital Physical Design**  
