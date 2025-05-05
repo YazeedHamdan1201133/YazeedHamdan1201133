@@ -42,7 +42,7 @@ I thrive in **fast-paced, collaborative environments** and enjoy working with di
   <td align="center" width="130"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></td>
   <td align="center" width="130"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></td>
   <td align="center" width="130"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></td>
-  <td align="center" width="130"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></td>
+  <td align="center" width="130"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </td>
 </tr>
 <tr>
   <td align="center" width="130"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></td>
